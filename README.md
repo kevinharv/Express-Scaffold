@@ -1,5 +1,5 @@
 # Express Scaffold
-This repo is a baseline Express.js server. All packages are up to date and ready for use. Repo will be updated as needed.
+I created this Express server in order to host my first personal site. Built with only vanilla HTML/CSS/JS it serves as the most basic static site host.
 
 ### Installation
 
